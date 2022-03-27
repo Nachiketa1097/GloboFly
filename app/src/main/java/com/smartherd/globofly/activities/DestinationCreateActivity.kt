@@ -13,6 +13,7 @@ class  DestinationCreateActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_destination_create)
 
+        val myName:String = "Nachiketa "
        val context = this
         // Show the Up button in the action bar.
       //  supportActionBar?.setDisplayHomeAsUpEnabled(true)
